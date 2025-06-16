@@ -54,3 +54,22 @@ h5{
     border-width: 3m;
     background-color: rgb(1, 134, 56);
 }
+h6{
+    text-align: center;
+    color: rgb(1, 90, 60);
+    border-color: aliceblue;
+    border-style: groove;
+    font-size: medium;
+    border-width: 3m;
+    background-color: rgb(1, 134, 56);
+
+}
+h7{
+    text-align: center;
+    color: rgb(1, 90, 60);
+    border-color: aliceblue;
+    border-style: groove;
+    font-size: medium;
+    border-width: 3m;
+    background-color: rgb(1, 134, 56);
+}
